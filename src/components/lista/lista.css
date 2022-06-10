@@ -1,0 +1,14 @@
+.lista {
+  padding: 5px;
+  text-align: left;
+
+  font-size: 15px;
+  color: rgba(112, 112, 112, 0.815);
+}
+
+.listTitle {
+  color: blue;
+}
+li {
+  list-style: none;
+}
